@@ -3,7 +3,7 @@ if (process.env.XFXD != "true") {
     return
 }
 /*
-京东-幸福小店
+京东-幸福小店1
 cron 18 0 * * * jd_xfxd.js
 
 活动入口：京东APP->我的->会员店->天天领京豆->幸福小店
